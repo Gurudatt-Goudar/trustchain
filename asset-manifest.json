@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Gurudatt-Goudar/trustchain/static/css/main.7facf64a.css",
-    "main.js": "/Gurudatt-Goudar/trustchain/static/js/main.c7508c8b.js",
-    "static/js/239.b6b77d12.chunk.js": "/Gurudatt-Goudar/trustchain/static/js/239.b6b77d12.chunk.js",
-    "static/js/213.306ff495.chunk.js": "/Gurudatt-Goudar/trustchain/static/js/213.306ff495.chunk.js",
-    "static/js/732.8b7f81ec.chunk.js": "/Gurudatt-Goudar/trustchain/static/js/732.8b7f81ec.chunk.js",
-    "static/js/453.3caf9267.chunk.js": "/Gurudatt-Goudar/trustchain/static/js/453.3caf9267.chunk.js",
-    "static/media/sealOfEx.png": "/Gurudatt-Goudar/trustchain/static/media/sealOfEx.7647bfb3f80ab18ebd76.png",
-    "static/media/blockchain-certificate-bg.png": "/Gurudatt-Goudar/trustchain/static/media/blockchain-certificate-bg.21a4481c2b968998f681.png",
-    "static/media/logo.png": "/Gurudatt-Goudar/trustchain/static/media/logo.df1d3f15e0a1ff1b9d7c.png",
-    "index.html": "/Gurudatt-Goudar/trustchain/index.html",
-    "main.7facf64a.css.map": "/Gurudatt-Goudar/trustchain/static/css/main.7facf64a.css.map",
-    "main.c7508c8b.js.map": "/Gurudatt-Goudar/trustchain/static/js/main.c7508c8b.js.map",
-    "239.b6b77d12.chunk.js.map": "/Gurudatt-Goudar/trustchain/static/js/239.b6b77d12.chunk.js.map",
-    "213.306ff495.chunk.js.map": "/Gurudatt-Goudar/trustchain/static/js/213.306ff495.chunk.js.map",
-    "732.8b7f81ec.chunk.js.map": "/Gurudatt-Goudar/trustchain/static/js/732.8b7f81ec.chunk.js.map",
-    "453.3caf9267.chunk.js.map": "/Gurudatt-Goudar/trustchain/static/js/453.3caf9267.chunk.js.map"
+    "main.css": "/trustchain/static/css/main.c388a627.css",
+    "main.js": "/trustchain/static/js/main.753806c9.js",
+    "static/js/239.b6b77d12.chunk.js": "/trustchain/static/js/239.b6b77d12.chunk.js",
+    "static/js/213.306ff495.chunk.js": "/trustchain/static/js/213.306ff495.chunk.js",
+    "static/js/732.8b7f81ec.chunk.js": "/trustchain/static/js/732.8b7f81ec.chunk.js",
+    "static/js/453.3caf9267.chunk.js": "/trustchain/static/js/453.3caf9267.chunk.js",
+    "static/media/sealOfEx.png": "/trustchain/static/media/sealOfEx.7647bfb3f80ab18ebd76.png",
+    "static/media/blockchain-certificate-bg.png": "/trustchain/static/media/blockchain-certificate-bg.21a4481c2b968998f681.png",
+    "static/media/logo.png": "/trustchain/static/media/logo.df1d3f15e0a1ff1b9d7c.png",
+    "index.html": "/trustchain/index.html",
+    "main.c388a627.css.map": "/trustchain/static/css/main.c388a627.css.map",
+    "main.753806c9.js.map": "/trustchain/static/js/main.753806c9.js.map",
+    "239.b6b77d12.chunk.js.map": "/trustchain/static/js/239.b6b77d12.chunk.js.map",
+    "213.306ff495.chunk.js.map": "/trustchain/static/js/213.306ff495.chunk.js.map",
+    "732.8b7f81ec.chunk.js.map": "/trustchain/static/js/732.8b7f81ec.chunk.js.map",
+    "453.3caf9267.chunk.js.map": "/trustchain/static/js/453.3caf9267.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7facf64a.css",
-    "static/js/main.c7508c8b.js"
+    "static/css/main.c388a627.css",
+    "static/js/main.753806c9.js"
   ]
 }
